@@ -22,7 +22,7 @@ This exercise focuses on enabling you to do the following:
 
 Step | Action
 ---- | -------------
-1-1  | Create a new repository on GitHub.com (e.g. myatomsample). You don’t have to initialise the repository with a README because you are importing an existing repository.
+1-1  | Create a new repository on GitHub.com (e.g. myatomsample). You don’t have to initialise the repository with a README file because you are importing an existing repository.
 1-2  | Once your repository is created in GitHub, scroll down to ‘import code’ and paste the url of this sample repository: https://github.com/macmurph42/atomsample.git . This may take a couple of minutes.
 1-3  | Copy the GitHub URL of your new updated repository (e.g. https://github.com/macmurph42/mtatomsample.git)
 1-3  | In the Atom Editor type Shift-Command-P (Shift-Ctrl-P on Windows) to toggle the Atom Command Palette ![Image](gittoggle.png)  
