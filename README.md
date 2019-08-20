@@ -37,5 +37,5 @@ Step | Action
 2-2  | When you create a new file or update an existing one, the file will be listed in the ‘Git’ Tab in Atom as ‘Unstaged' Change’.![Image](unstaged.png)   
 2-3 | Click on ‘Stage all’, the file will now be listed in ‘Staged Changes’. ![Image](staged.png)
 2-4 | Type some text in the text field and click "Commit to master". You cannot click this button when you leave the commit message empty. ![Image](commit.png)
-2-5 | Look in the bottom right corner of Atom. After you commited your change, it will show 'Push 1' to indicate that changes need to get pushed to GitHub.  ![Image](newpush.png) This number indicates the number of files that will be pushed to GitHub. Click 'Push' to push the changes.
+2-5 | Look in the bottom right corner of Atom. After you commited your change, it will show 'Push 1' to indicate that changes need to get pushed to GitHub.  ![Image](newpush.png) This number indicates the number of changes that will be applied in your GitHub repository. Click 'Push' to push the changes.
 2-6 | Verify that you can see your changes in the repository on GitHub.com
