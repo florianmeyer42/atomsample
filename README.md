@@ -22,11 +22,11 @@ This exercise focuses on enabling you to do the following:
 
 Step | Action
 ---- | -------------
-1-1  | Create a new repository on GitHub.com (e.g. myatomsample). You don’t have to initialise the repository with a README file because you are importing an existing repository.
-1-2  | Once your repository is created in GitHub, scroll down to ‘import code’ and paste the url of this sample repository: https://github.com/macmurph42/atomsample.git . This may take a couple of minutes.
-1-3  | Copy the GitHub URL of your new updated repository (e.g. https://github.com/macmurph42/mtatomsample.git)
+1-1  | Create a new repository on GitHub.com (e.g. atomsample). You don’t have to initialise the repository with a README file because you are importing an existing repository.
+1-2  | Once your repository is created in GitHub, scroll down to ‘import code’ and paste the url of this sample repository: https://github.com/florianmeyer42/atomsample.git . This may take a couple of minutes.
+1-3  | Copy the GitHub URL of your new updated repository (e.g. https://github.com/yourname/atomsample.git)
 1-3  | In the Atom Editor type Shift-Command-P (Shift-Ctrl-P on Windows) to toggle the Atom Command Palette ![Image](gittoggle.png)  
-1-4  | Type Github:Clone and paste the url from step 2.  (Your new repository) This will also create a new folder in your GitHub home directory on your disk (e.g. /Users/florianmeyer/github/atomsample)
+1-4  | Type Github:Clone and paste the url from step 2.  (Your new repository) This will also create a new folder atomsample in the GitHub home directory on your harddisk. 
 1-5  | At some point, you may be asked to enter a GitHub token to authorize GitHub for Atom. You can create this token here https://github.atom.io/auth/github_package/token
 
 **Task2: Create new files and update your repository**
