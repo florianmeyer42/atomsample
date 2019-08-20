@@ -38,3 +38,4 @@ Step | Action
 2-3 | Click on ‘Stage all’, the file will now be listed in ‘Staged Changes’. ![Image](staged.png)
 2-4 | Type some text in the text field and click "Commit to initial". You cannot click this button when you leave the commit message empty. ![Image](commit.png)
 2-5 | Look in the bottom right corner of Atom. After you commited your change, it will show 'Push 1' to indicate that changes need to get pushed to GitHub.  ![Image](push.png) The number indicates the number of files that will be pushed to GitHub. Click 'Push' to push the changes.
+2-6 | Verify that you can see your changes in the repository on GitHub.com 
