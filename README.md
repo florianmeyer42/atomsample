@@ -2,7 +2,7 @@
 
 _Legend_
 
-Icon | Desription
+Icon | Description
  :---: | -------------
 :warning:             | **Warning** If you misconfigure a step marked with this icon, later steps might not work properly. Check the step carefully before you move forward.
 :exclamation:         | **Attention** Review this step or comment carefully to save time, learn a best practice, or avoid errors.
@@ -26,7 +26,7 @@ Step | Action
 1-2  | Once your repository is created in GitHub, scroll down to ‘import code’ and paste the url of this sample repository: https://github.com/florianmeyer42/atomsample.git . This may take a couple of minutes.
 1-3  | Copy the GitHub URL of your new updated repository (e.g. https://github.com/yourname/atomsample.git)
 1-3  | In the Atom Editor type Shift-Command-P (Shift-Ctrl-P on Windows) to toggle the Atom Command Palette ![Image](gittoggle.png)  
-1-4  | Type Github:Clone and paste the url from step 3.  (Your new repository) This will also create a new folder atomsample in the GitHub home directory on your harddisk. 
+1-4  | Type Github:Clone and paste the url from step 3.  (Your new repository) This will also create a new folder atomsample in the GitHub home directory on your harddisk.
 1-5  | At some point, you may be asked to enter a GitHub token to authorize GitHub for Atom. You can create this token here https://github.atom.io/auth/github_package/token
 
 **Task2: Create new files and update your repository**
